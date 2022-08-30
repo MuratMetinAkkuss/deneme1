@@ -7,4 +7,4 @@ sdlsdpfsdf
 
 
 
- {lorem ipsum }(http://google.com)
+ {lorem ipsum }
